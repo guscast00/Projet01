@@ -1,0 +1,15 @@
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\Variables test 22fev.exe
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\Variables test 22fev.deps.json
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\Variables test 22fev.runtimeconfig.json
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\Variables test 22fev.dll
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\ref\Variables test 22fev.dll
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\bin\Debug\net6.0\Variables test 22fev.pdb
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.csproj.AssemblyReference.cache
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.AssemblyInfoInputs.cache
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.AssemblyInfo.cs
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.csproj.CoreCompileInputs.cache
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.dll
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\ref\Variables test 22fev.dll
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.pdb
+C:\Users\Maria\RiderProjects\Projet01\Variables test 22fev\obj\Debug\net6.0\Variables test 22fev.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.csproj.AssemblyReference.cache
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.AssemblyInfoInputs.cache
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.AssemblyInfo.cs
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.csproj.CoreCompileInputs.cache
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\joursDansMois.exe
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\joursDansMois.deps.json
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\joursDansMois.runtimeconfig.json
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\joursDansMois.dll
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\ref\joursDansMois.dll
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\bin\Debug\net6.0\joursDansMois.pdb
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.dll
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\ref\joursDansMois.dll
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.pdb
+C:\Users\Maria\RiderProjects\Projet01\joursDansMois\obj\Debug\net6.0\joursDansMois.genruntimeconfig.cache
